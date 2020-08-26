@@ -15,6 +15,7 @@
     <members>PropertyController</members>
     <members>SampleDataController</members>
     <members>TestPropertyController</members>
+    <members>ContactController</members>
   </types>
   <types>
     <name>ContentAsset</name>
@@ -123,5 +124,5 @@
     <members>Property__c</members>
     <members>Settings</members>
   </types>
-  <version>49.0</version>
+  <version>48.0</version>
 </Package>

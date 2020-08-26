@@ -16,6 +16,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>daysOnMarket</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>propertySummary</componentName>
         </componentInstances>
         <componentInstances>
